@@ -54,8 +54,13 @@ Text Domain:  accelerate-theme-child
 
 /* Case Study Post Type */
 
-aside .case-study-sidebar {
+.case-study-sidebar {
 	float: left;
 	width: 300px;
-	display: inline-block;
+	display: block;
+}
+
+.case-study-img {
+	float: right;
+	display: block;
 }
