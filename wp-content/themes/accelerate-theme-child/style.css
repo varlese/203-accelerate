@@ -51,3 +51,11 @@ Text Domain:  accelerate-theme-child
 	color: #45ac9d;
 	text-transform: uppercase;
 }
+
+/* Case Study Post Type */
+
+aside .case-study-sidebar {
+	float: left;
+	width: 300px;
+	display: inline-block;
+}
