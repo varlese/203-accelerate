@@ -708,3 +708,131 @@ a.button, a.button:link {
 		display: inline;
 	}
 }
+
+/* Contact Form Styles */
+
+#nf-field-1-container, 
+#nf-field-2-container {
+	display: inline-grid;
+	width: 375px;
+}
+
+#nf-field-1-container {
+	margin-right: 45px;
+}
+
+input#nf-field-4 {
+	background: #45ac9d;
+	float: right;
+}
+
+#nf-label-field-1,
+#nf-label-field-2,
+#nf-label-field-3 {    
+	font-weight: 600;
+    font-family: 'Open Sans', sans serif;
+}
+
+.page-id-47356 div.main-content {
+	max-width: 800px;
+	margin-left: 4em;
+}
+
+/* About Us Page */
+
+.about-page {
+	background: url("http://localhost:8888/203-accelerate/wp-content/uploads/2018/11/taxi-photo.jpg") no-repeat scroll right center / cover rgba(0, 0, 0, 0);
+    height: 350px;
+    margin: 0 0 4em;
+    padding: 3em 0;
+	text-align: center;
+}
+
+div.about-page.hero-content p {
+	text-align: center;
+	font-size: 1.5em;
+	max-width: 30%;
+	color: white;
+}
+
+.service-intro {
+	text-align: center;
+}
+
+ul.about-services {
+	list-style: none;
+}
+
+figure.img-left {
+	float: left;
+	margin-right: 4em;
+}
+
+figure.img-right {
+	float: right;
+	margin-left: 4em;
+}
+
+li.individual-service {
+	margin-top: 5em;
+	padding-top: 10px;
+	display: block;
+}
+
+.about-footer .site-content {
+	border-top: 1px solid #bfbfbf;
+	margin-top: 10em;
+}
+
+.about-footer p {
+	margin-top: 3em;
+	text-align: center;
+	font-weight: 700;
+	font-size: 1.2em;
+}
+
+.contact-button {
+	color: white;
+	background: #45ac9d;
+	padding: 15px 30px;
+	font-weight: 700;
+	margin: 1em;
+}
+
+/*404 Page*/
+
+.404-puppy {
+	float: left;
+	width: 75%;
+}
+
+.error-title {
+	font-family: 'Spicy Rice', cursive;
+	font-size: 2em;
+}
+
+/* widgets */
+
+#secondary {
+	float: left;
+    display: inline;
+    margin-top: 45px;
+    width: 30%;
+    padding-left: 50px;
+}
+
+h3.widget-title {
+	font: 700 1em/1.75 'Montserrat', 'Open Sans', Arial, sans-serif;
+    color: #a6a6a6;
+    text-transform: uppercase;
+    margin: 2em 0 .5em;
+}
+
+ul.tweets li {
+	list-style: none;
+}
+
+.mc4wp-form-fields input[type="submit"] {
+	background: #45ac9d;
+    padding: 5px 4.25em;
+}
